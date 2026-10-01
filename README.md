@@ -46,3 +46,7 @@ and persists them.
 On first open the mod logs the barber GUI hierarchy at Debug level (search for
 `Barber GUI hierarchy`). To see it, add `Debug` to `LogLevels` under `[Logging.Disk]` in
 `BepInEx/config/BepInEx.cfg`; it then appears in `BepInEx/LogOutput.log`.
+
+## License
+
+MIT, see [LICENSE](LICENSE).

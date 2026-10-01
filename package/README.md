@@ -40,3 +40,7 @@ Built and tested against Valheim l-1.0.16 with BepInExPack 5.4.2351.
 
 - **0.2.0**: Skin Tone slider.
 - **0.1.0**: First release.
+
+## License
+
+MIT. Source: https://github.com/snaevarg/lokischair
