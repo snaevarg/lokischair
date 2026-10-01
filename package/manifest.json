@@ -1,0 +1,9 @@
+{
+    "name": "LokisChair",
+    "version_number": "0.2.0",
+    "website_url": "https://github.com/snaevarg/lokischair",
+    "description": "Adds Body (Male/Female) and Skin Tone options to the Barber Station, so you can change them without making a new character. Client-side only. Early release: not thoroughly tested, back up your characters first.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2351"
+    ]
+}
